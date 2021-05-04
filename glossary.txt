@@ -1,0 +1,4 @@
+31 - "(+/-)?% Pellets per shot"
+[Scattergun, Scout, Primary]
+Increases or reduces the number of pellets in a scattergun shot by a percentage.
+	The normal number of pellets is 9. The number of pellets is changed by multiplying the percentage by 9 and rounding (i.e. -25% pellets = 7 pellets).

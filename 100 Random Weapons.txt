@@ -1,0 +1,1580 @@
+=======================================
+A Shovel for the Soldier
+
++
++30% Knockback dealt
++15% Air movement control
++10% Damage dealt
+Damage dealt with this weapon against Uber-ready targets is converted to critical damage
+
+-
++65% Knockback taken while deployed
+-5% Firing rate
+=======================================
+1
+
+=======================================
+A SMG for the Sniper
+
++
++35% Air turn control on wearer
++35% Damage dealt
+
+-
+-25% Maximum overheal on wearer
+-40% Jump height while deployed
++95% Damage vulnerability against critical damage on wearer
++20% Damage vulnerability against bullet damage on wearer
+=======================================
+2
+
+=======================================
+A Shotgun for the Engineer
+
++
+Wearer has 1 extra mid-air jump while this weapon is deployed
+
+-
+Mini-crits against the user are converted to crits
+
+Wearer cannot jump
+-30% Switch-from speed
+Damage dealt with this weapon against Uber-ready targets is nullified
+=======================================
+3
+
+
+=======================================
+A Pistol for the Scout
+
++
++70% Damage dealt on mini-crit
+
++70% Speed while deployed
++25% Reload rate
+Wearer cannot be headshot
+
+-
+-20% Clip size
+
+=======================================
+4
+
+=======================================
+A Pistol for the Scout
+
++
++30% Damage dealt on crit
++10% Maximum overheal on wearer
+
++75% Damage dealt on crit
+Wearer has 1 extra mid-air jump while this weapon is deployed
+
+-
++1 Degrees of random deviation in accuracy
+-1 Health regen per sec
+
+-10% Jump height on wearer
+-25% Maximum ammo
+=======================================
+5
+
+=======================================
+A Rocket for the Soldier
+
++
+Wearer has 1 extra mid-air jump
++10% Damage dealt on mini-crit
+
+-45% Fall damage taken on wearer
++10% Switch-from speed
+
+-
+Damage dealt with this weapon against enemy Soldiers is nullified
+
+=======================================
+6
+
+=======================================
+A Wrench for the Engineer
+
++
+Damage dealt with this weapon against enemy Heavies is converted to mini-crit damage
+
+Crits against the user are converted to mini-crits
++15% Damage dealt on mini-crit
++20% Switch-from speed
+
+-
+
+-40% Air turn control on wearer
+-10% Speed while deployed
+=======================================
+7
+
+=======================================
+A Pipe for the Demoman
+
++
++35% Maximum ammo
++65% Maximum health on wearer
+
++65% Random bullet spread
+-10% Knockback taken while deployed
+
+-
+-40% Maximum health on wearer
+-45% Maximum health on wearer
+
+-30% Damage dealt on crit
+=======================================
+8
+
+=======================================
+A Shotgun for the Soldier
+
++
++30% Switch-from speed
++20% Jump height on wearer
+
+
+-
++75% Damage vulnerability against short-range damage on wearer
+=======================================
+9
+
+
+=======================================
+A Bonesaw for the Medic
+
++
+-25% Knockback taken on wearer
+
+-
+
+-10% Melee range
+No random crits
+-45% Jump height on wearer
++60% Knockback taken on wearer
+=======================================
+10
+
+
+=======================================
+A Shotgun for the Heavy
+
++
+This weapon has random crits
++55% Speed on wearer
+
++65% Speed on wearer
+This weapon has random crits
+
+-
+-5% Firing rate
+=======================================
+
+11
+
+=======================================
+A Medigun for the Medic
+
++
++20% Uber build rate
++45% Damage resistance against falling damage on wearer
+
+
+-
+Wearer cannot jump
+=======================================
+12
+
+=======================================
+A Medigun for the Medic
+
++
++95% Jump height while deployed
+
+-
+
++95% Uber drain rate
+-30% Heal rate
+-20% Heal rate
+-20% Heal rate
+=======================================
+
+13
+
+=======================================
+A Bat for the Scout
+
++
++5% Maximum primary ammo on wearer
+Damage dealt with this weapon against enemy Heavies is converted to critical damage
+
++70% Maximum overheal on wearer
++75% Firing rate
+
+-
+-40% Air movement control
+
++60% Knockback taken on wearer
+=======================================
+14
+
+=======================================
+A Rifle for the Sniper
+
++
++35% Damage resistance against long-range damage while deployed
+
+-
+
++20% Damage vulnerability against long-range damage while deployed
+-40% Damage dealt on mini-crit
+=======================================
+15
+
+
+=======================================
+A Scattergun for the Scout
+
++
++20% Accuracy
++45% Accuracy
+
+-10% Spacing between pellets
+
+-
+-5% Damage dealt on mini-crit
+-35% Speed on wearer
+-15% Clip size
+
+=======================================
+16
+
+=======================================
+A Shovel for the Soldier
+
++
++80% Air movement control
+On hit: Target is inflicted with bleed for 2 seconds
+
++80% Damage dealt against buildings
++10% Maximum health on wearer
+
+-
+Wearer cannot jump
+On hit: Target is crit boosted for 3 seconds
+
++70% Knockback taken while deployed
+=======================================
+17
+
+=======================================
+A Kukri for the Sniper
+
++
++30% Maximum health on wearer
++5% Switch-from speed
+
++45% Damage resistance against sentry damage on wearer
++40% Damage dealt
+
+-
+-20% Jump height while deployed
+
+=======================================
+
+18
+
+=======================================
+A Revolver for the Spy
+
++
+Damage dealt with this weapon against enemy Soldiers is converted to mini-crit damage
+
+
+-
+-10% Damage dealt against buildings
+-25% Speed while deployed
+-10% Switch-to speed
++10% Damage vulnerability against all sources of damage on wearer
+
+=======================================
+19
+
+=======================================
+A Fists for the Heavy
+
++
++5% Switch-from speed
+On hit: Target is doused in Jarate for 2 seconds
+
++45% Melee bounds
+Wearer has 1 extra mid-air jump while this weapon is deployed
+
+-
+Damage dealt with this weapon against enemy Scouts is nullified
+-20% Speed on wearer
+
+On hit: Target becomes disguised for 7 seconds
+-30% Switch-from speed
+=======================================
+20
+
+=======================================
+A Shotgun for the Pyro
+
++
++65% Random bullet spread
+
+-
+
+Mini-crits against the user are converted to crits
+If one shot is in the clip when reloading, it is lost
+=======================================
+21
+
+=======================================
+A Shotgun for the Engineer
+
++
+Crits against the user are converted to mini-crits
+
+Crits against the user are converted to mini-crits
+
+-
+-25% Random bullet spread
+-15% Knockback dealt
+
+=======================================
+22
+
+=======================================
+A Bat for the Scout
+
++
++50% Maximum overheal on wearer
++95% Speed while deployed
+
+
+-
++5% Fall damage taken on wearer
+On hit: Target is crit boosted for 9 seconds
+=======================================
+
+23
+
+=======================================
+A Revolver for the Spy
+
++
++90% Damage dealt against buildings
+Wearer cannot be headshot
+
++90% Random bullet spread
+
+-
+-3 Health regen per sec
+On hit: Target becomes invulnerable for 1 second
++50% Damage vulnerability against explosive damage on wearer
+
+This weapon deals mini-crit damage when it would normally deal crits
+=======================================
+24
+
+=======================================
+A Knife for the Spy
+
++
+Damage dealt with this weapon against overhealed targets is converted to critical damage
+
+Crits against the user are converted to mini-crits
+
+-
+-10% Air turn control on wearer
+No random crits
+
++5 Degrees of random deviation in accuracy
+=======================================
+25
+
+=======================================
+A SMG for the Sniper
+
++
++60% Maximum ammo
++15% Accuracy
+
++90% Accuracy
++15% Knockback dealt
+
+-
+-10% Switch-to speed
+
+Damage dealt with this weapon against enemy Heavies is nullified
+=======================================
+26
+
+=======================================
+A Scattergun for the Scout
+
++
+Damage dealt with this weapon against enemy Medics is converted to critical damage
++10% Knockback dealt
+
+-
+Mini-crits against the user are converted to crits
++5 Degrees of random deviation in accuracy
+=======================================
+27
+
+=======================================
+A Pistol for the Engineer
+
++
++20% Clip size
++65% Switch-to speed
+
++65% Damage dealt against buildings
+
+-
+-15% Clip size
+No random crits
++80% Damage vulnerability against all sources of damage on wearer
+
+=======================================
+28
+
+=======================================
+A Sticky for the Demoman
+
++
++25% Health gained from all sources on wearer
++45% Damage dealt on mini-crit
+
++20% Damage dealt on crit
+
+-
++25% Knockback taken on wearer
+-30% Firing rate
+=======================================
+
+29
+
+=======================================
+A Shotgun for the Engineer
+
++
++75% Air movement control
+
+-
+
+-30% Air movement control
+-10% Damage dealt on crit
+On hit: Target gains a speed boost for 11 seconds
+=======================================
+
+30
+
+=======================================
+A Bonesaw for the Medic
+
++
++45% Damage resistance against medium-range damage on wearer
++30% Damage dealt on crit
+
+-15% Fall damage taken on wearer
++55% Switch-from speed
+
+-
++75% Knockback taken on wearer
+
+-4 Health regen per sec
+-30% Speed on wearer
+=======================================
+31
+
+=======================================
+A Rocket for the Soldier
+
++
++75% Speed while deployed
++15% Jump height while deployed
+
++50% Switch-to speed
+
+-
++65% Damage vulnerability against medium-range damage on wearer
+Mini-crits against the user are converted to crits
+-5% Damage dealt on mini-crit
+
+=======================================
+32
+
+=======================================
+A Knife for the Spy
+
++
++35% Damage dealt against buildings
++20% Knockback dealt
+
+Wearer has 1 extra mid-air jump while this weapon is deployed
+
+-
+Wearer cannot jump
+Damage dealt with this weapon against burning targets is nullified
+-30% Accuracy
+
++85% Damage vulnerability against falling damage while deployed
+=======================================
+33
+
+=======================================
+A Wrench for the Engineer
+
++
++20% Speed while deployed
++45% Switch-from speed
+
+Wearer cannot be backstabbed
+
+-
++85% Knockback taken while deployed
++35% Damage vulnerability against falling damage on wearer
+-25% Damage dealt against buildings
+
+=======================================
+34
+
+=======================================
+A Fists for the Heavy
+
++
++5% Switch-from speed
+
+-
+
+This weapon deals mini-crit damage when it would normally deal crits
+-5% Maximum secondary ammo on wearer
+-20% Air turn control on wearer
+=======================================
+35
+
+
+=======================================
+A Axe for the Pyro
+
++
++85% Knockback dealt
+-10% Knockback taken on wearer
+
+-35% Knockback taken while deployed
+-25% Fall damage taken on wearer
+
+-
+-5% Speed on wearer
+Mini-crits against the user are converted to crits
+
+-20% Damage dealt on mini-crit
+=======================================
+36
+
+=======================================
+A Revolver for the Spy
+
++
++20% Speed on wearer
+
+-
+
+-35% Switch-to speed
+-45% Maximum ammo
+Damage dealt with this weapon against enemy Soldiers is nullified
+-15% Reload rate
+=======================================
+
+37
+
+=======================================
+A Needle for the Medic
+
++
+Wearer cannot be backstabbed
+
+
+-
+-10% Accuracy
++5% Damage vulnerability against short-range damage on wearer
+=======================================
+
+38
+
+=======================================
+A Kukri for the Sniper
+
+
++
++4 Health regen per sec
++30% Damage dealt on mini-crit
++3 Health regen per sec
+
+
+-
+-35% Maximum secondary ammo on wearer
++95% Damage vulnerability against explosive damage while deployed
+-35% Melee bounds
+-10% Jump height while deployed
+
+=======================================
+39
+
+=======================================
+A Bat for the Scout
+
++
++25% Accuracy
++5% Air movement control
+
++5% Maximum primary ammo on wearer
+This weapon has random crits
+
+-
+This weapon deals mini-crit damage when it would normally deal crits
++10% Knockback taken on wearer
+
+-30% Damage dealt against buildings
++75% Damage vulnerability against all sources of damage while deployed
+=======================================
+40
+
+=======================================
+A Sapper for the Spy
+
++
++20% Switch-to speed
+
+
+-
+-20% Jump height while deployed
+=======================================
+41
+
+
+=======================================
+A Pipe for the Demoman
+
++
++85% Health gained from all sources on wearer
+
+-
+
+-5% Air movement control
+-25% Projectile speed
+=======================================
+42
+
+=======================================
+A Needle for the Medic
+
++
++3 Health regen per sec
+
+
+-
++55% Knockback taken while deployed
+-1 Health regen per sec
+-10% Speed on wearer
+=======================================
+43
+
+
+=======================================
+A Rifle for the Sniper
+
++
++65% Speed on wearer
++25% Air turn control on wearer
+
+
+-
+-45% Clip size
+=======================================
+44
+
+
+=======================================
+A Shovel for the Soldier
+
++
+Wearer has 1 extra mid-air jump
++95% Damage dealt against buildings
+
+
+-
++60% Damage vulnerability against explosive damage on wearer
+=======================================
+45
+
+
+=======================================
+A Kukri for the Sniper
+
++
++70% Damage dealt on crit
++45% Damage dealt against buildings
+
++40% Maximum health on wearer
+
+-
+-20% Switch-to speed
+No random crits
+-30% Health gained from all sources on wearer
+
+-40% Damage dealt
+=======================================
+46
+
+=======================================
+A Sapper for the Spy
+
++
++35% Jump height while deployed
+-35% Fall damage taken on wearer
+
++1 Health regen per sec
+
+-
+-35% Maximum health on wearer
+=======================================
+47
+
+
+=======================================
+A Sticky for the Demoman
+
++
++45% Explosion radius
++10% Clip size
+
+
+-
+-15% Maximum health on wearer
++60% Damage vulnerability against critical damage on wearer
+-25% Speed on wearer
+
+=======================================
+48
+
+=======================================
+A Bonesaw for the Medic
+
++
+Wearer cannot be headshot
+
+-
+
+-20% Speed while deployed
+=======================================
+49
+
+=======================================
+A Revolver for the Spy
+
++
++15% Knockback dealt
+
++15% Reload rate
+
+-
+-30% Jump height on wearer
+Damage dealt with this weapon against enemy Pyros is nullified
+-2 Health regen per sec
+
++90% Knockback taken while deployed
+=======================================
+50
+
+=======================================
+A Shotgun for the Pyro
+
++
+On hit: Target is doused in Jarate for 10 seconds
+
+-
+
+-45% Health gained from all sources on wearer
+=======================================
+51
+
+=======================================
+A Needle for the Medic
+
++
++90% Damage dealt on crit
++95% Air turn control on wearer
+
+
+-
++35% Damage vulnerability against fire damage while deployed
++10% Fall damage taken on wearer
+-30% Damage dealt against buildings
+
+=======================================
+52
+
+=======================================
+A Wrench for the Engineer
+
++
++4 Health regen per sec
++30% Knockback dealt
+
++75% Melee range
+
+-
+-30% Jump height while deployed
+=======================================
+53
+
+=======================================
+A Scattergun for the Scout
+
++
++55% Jump height on wearer
++3 Health regen per sec
++25% Speed on wearer
+This weapon has random crits
+
+-
+-45% Speed while deployed
+This weapon deals mini-crit damage when it would normally deal crits
+=======================================
+54
+
+=======================================
+A Flamethrower for the Pyro
+
++
++95% Damage dealt on mini-crit
+
+-
+
+-45% Accuracy
+-35% Airblast cost
++65% Fall damage taken on wearer
+=======================================
+55
+
+
+=======================================
+A Rocket for the Soldier
+
++
+Wearer cannot be backstabbed
++80% Damage dealt on crit
+
+-
+
+-5 Health regen per sec
++90% Knockback taken while deployed
+=======================================
+56
+
+
+=======================================
+A Wrench for the Engineer
+
++
++15% Damage dealt
+On hit: Target is doused in Jarate for 3 seconds
+
+-
+
+-25% Melee range
+-40% Damage dealt on mini-crit
+=======================================
+57
+
+=======================================
+A Rifle for the Sniper
+
++
++85% Speed while deployed
++50% Damage dealt against buildings
+
+
+-
+-40% Damage dealt
+Damage dealt with this weapon against targets with more than 50% health is nullified
+On hit: Target gains a speed boost for 4 seconds
+
+=======================================
+58
+
+=======================================
+A Flamethrower for the Pyro
+
++
++60% Air turn control on wearer
++80% Afterburn damage dealt
+
+Damage dealt with this weapon against enemy Medics is converted to mini-crit damage
+On hit: Target is doused in Jarate for 12 seconds
+
+-
+-3 Health regen per sec
+
+-20% Damage dealt on mini-crit
+=======================================
+59
+
+=======================================
+A Needle for the Medic
+
++
++5% Damage resistance against sentry damage on wearer
+
+Wearer cannot be backstabbed
++3 Needles per shot
+
+-
+-5% Knockback dealt
+=======================================
+
+60
+
+=======================================
+A Rifle for the Sniper
+
++
+Wearer has 1 extra mid-air jump
+This weapon has random crits
+
+
+-
+Damage dealt with this weapon against enemy Engineers is nullified
+=======================================
+61
+
+
+=======================================
+A Flamethrower for the Pyro
+
++
+-5% Knockback taken on wearer
+
++65% Knockback dealt
+Damage dealt with this weapon against wet targets is converted to critical damage
++10% Switch-to speed
+
+-
+
+-2 Health regen per sec
+-30% Speed while deployed
+=======================================
+62
+
+=======================================
+A Shotgun for the Soldier
+
++
++65% Speed while deployed
+On hit: Target is slowed for 5 seconds
+
++55% Damage dealt on mini-crit
++10% Damage resistance against all sources of damage on wearer
+
+-
++85% Knockback taken while deployed
+
+-40% Maximum overheal on wearer
+-45% Health gained from all sources on wearer
+-5% Damage dealt
+=======================================
+63
+
+
+=======================================
+A Scattergun for the Scout
+
++
+-10% Knockback taken on wearer
+
+
+-
+Damage dealt with this weapon against enemy Snipers is nullified
+-40% Maximum ammo
+=======================================
+64
+
+
+=======================================
+A Wrench for the Engineer
+
++
+This weapon deals critical damage when it would normally deal mini-crits
+Wearer cannot be backstabbed
+
+
+-
+-15% Maximum secondary ammo on wearer
+=======================================
+65
+
+
+=======================================
+A Medigun for the Medic
+
++
++5% Heal rate
+
+-
+
+-40% Maximum overheal on wearer
+=======================================
+66
+
+=======================================
+A Minigun for the Heavy
+
++
++15% Maximum ammo
+This weapon has random crits
+
++25% Air movement control
++30% Speed while spun-up
+
+-
+-30% Damage dealt
+=======================================
+67
+
+=======================================
+A Pipe for the Demoman
+
++
+-15% Fall damage taken on wearer
++30% Damage resistance against melee damage on wearer
+
+-
+-25% Switch-to speed
+-30% Knockback dealt
+=======================================
+68
+
+=======================================
+A Bottle for the Demoman
+
++
+Wearer cannot be headshot
+
+-
+
+-5% Damage dealt on crit
+-10% Health gained from all sources on wearer
++30% Damage vulnerability against long-range damage while deployed
+=======================================
+
+69
+
+=======================================
+A Rocket for the Soldier
+
++
++55% Accuracy
++40% Projectile speed
+
+-45% Fall damage taken on wearer
+On hit: Target is doused in Jarate for 3 seconds
+
+-
+No random crits
+If one shot is in the clip when reloading, it is lost
+
+-25% Explosion radius
+=======================================
+70
+
+=======================================
+A Kukri for the Sniper
+
++
+Wearer has 1 extra mid-air jump while this weapon is deployed
+
+-
+
++35% Damage vulnerability against sentry damage on wearer
++10% Fall damage taken on wearer
+-10% Maximum secondary ammo on wearer
++35% Damage vulnerability against all sources of damage on wearer
+
+=======================================
+71
+
+=======================================
+A Rifle for the Sniper
+
++
++5% Knockback dealt
++10% Speed while deployed
+
+This weapon has random crits
++5% Damage dealt
+
+-
+-15% Health gained from all sources on wearer
+
++45% Damage vulnerability against bullet damage while deployed
+No random crits
+Mini-crits against the user are converted to crits
+=======================================
+72
+
+
+=======================================
+A Needle for the Medic
+
++
++30% Speed while deployed
++70% Firing rate
+
+On hit: Target is slowed for 7 seconds
++70% Maximum ammo
+
+-
++2 Degrees of random deviation in accuracy
+=======================================
+
+73
+
+=======================================
+A Pistol for the Scout
+
++
++10% Damage resistance against all sources of damage while deployed
++20% Jump height on wearer
+
+This weapon deals critical damage when it would normally deal mini-crits
+
+-
+-15% Reload rate
+-20% Switch-to speed
+=======================================
+
+74
+
+=======================================
+A SMG for the Sniper
+
++
+-35% Fall damage taken on wearer
+
+This weapon has random crits
++90% Jump height on wearer
++85% Air movement control
+
+-
+
+-20% Air movement control
+-35% Damage dealt on mini-crit
+=======================================
+75
+
+=======================================
+A Flamethrower for the Pyro
+
++
+-40% Knockback taken on wearer
++75% Maximum ammo
++15% Health gained from all sources on wearer
+
++65% Afterburn damage dealt
+
+-
+-5 Health regen per sec
+-10% Speed on wearer
+
+-15% Maximum ammo
+-25% Damage dealt on crit
+=======================================
+76
+
+=======================================
+A Minigun for the Heavy
+
++
+Damage dealt with this weapon against cloaked targets is converted to critical damage
+
+Damage dealt with this weapon against enemy Soldiers is converted to mini-crit damage
++5% Damage taken while spun-up
+
+-
+-20% Air turn control on wearer
+
+-1 Health regen per sec
+=======================================
+77
+
+=======================================
+A Scattergun for the Scout
+
++
++45% Speed on wearer
++25% Damage resistance against critical damage while deployed
+
++60% Damage dealt
++90% Switch-to speed
+
+-
+-5% Knockback dealt
+
+=======================================
+78
+
+=======================================
+A Wrench for the Engineer
+
++
++55% Melee range
+Wearer has 1 extra mid-air jump while this weapon is deployed
+
+
+-
+-20% Maximum secondary ammo on wearer
+=======================================
+79
+
+
+=======================================
+A SMG for the Sniper
+
++
++25% Maximum primary ammo on wearer
+This weapon deals critical damage when it would normally deal mini-crits
+
+
+-
+-45% Maximum overheal on wearer
+-35% Air turn control on wearer
+=======================================
+80
+
+=======================================
+A Axe for the Pyro
+
++
+-25% Fall damage taken on wearer
++50% Speed on wearer
++65% Maximum overheal on wearer
++20% Melee bounds
+
+-
+Wearer cannot jump
+-20% Damage dealt on mini-crit
+=======================================
+81
+
+=======================================
+A SMG for the Sniper
+
++
+Crits against the user are converted to mini-crits
++5% Health gained from all sources on wearer
+
++15% Damage resistance against melee damage while deployed
+
+-
+On hit: Target becomes invulnerable for 11 seconds
+-35% Reload rate
+-45% Maximum overheal on wearer
+
+-20% Switch-to speed
+=======================================
+82
+
+=======================================
+A Shotgun for the Heavy
+
++
+Wearer has 1 extra mid-air jump
+
+-
+
+-40% Switch-to speed
+-35% Random bullet spread
+=======================================
+83
+
+
+=======================================
+A Shovel for the Soldier
+
++
+-25% Knockback taken while deployed
++10% Damage resistance against all sources of damage on wearer
+
+On hit: Target ignites for 5 seconds
+
+-
+On hit: Target becomes disguised for 6 seconds
+Damage dealt with this weapon against targets with 100% health is nullified
+
+-40% Firing rate
+-40% Damage dealt on mini-crit
+=======================================
+84
+
+=======================================
+A Needle for the Medic
+
++
++50% Health gained from all sources on wearer
++90% Random bullet spread
+
++30% Damage resistance against critical damage on wearer
++70% Damage dealt against buildings
+
+-
++35% Damage vulnerability against long-range damage while deployed
+This weapon deals mini-crit damage when it would normally deal crits
+
+=======================================
+85
+
+=======================================
+A Pistol for the Scout
+
++
++80% Health gained from all sources on wearer
++50% Damage dealt against buildings
+
++55% Damage dealt on crit
++35% Firing rate
+
+-
+This weapon deals mini-crit damage when it would normally deal crits
+=======================================
+
+86
+
+=======================================
+A Pistol for the Engineer
+
++
+This weapon deals critical damage when it would normally deal mini-crits
+Crits against the user are converted to mini-crits
+
+On hit: Target is doused in Mad Milk for 7 seconds
+
+-
+-10% Jump height while deployed
++5 Degrees of random deviation in accuracy
+
+=======================================
+87
+
+=======================================
+A Pistol for the Engineer
+
++
++20% Damage resistance against falling damage on wearer
++95% Maximum overheal on wearer
+
+Wearer has 1 extra mid-air jump
+
+-
++5 Degrees of random deviation in accuracy
+-10% Health gained from all sources on wearer
+Damage dealt with this weapon against enemy Heavies is nullified
+
+=======================================
+88
+
+=======================================
+A Bonesaw for the Medic
+
++
++20% Switch-to speed
+
+-
+
+-15% Maximum overheal on wearer
+-35% Speed while deployed
++3 Degrees of random deviation in accuracy
++4 Degrees of random deviation in accuracy
+=======================================
+
+89
+
+=======================================
+A Knife for the Spy
+
++
+Wearer has 1 extra mid-air jump
++20% Air movement control
+
+
+-
+-35% Maximum secondary ammo on wearer
+=======================================
+90
+
+
+=======================================
+A Pistol for the Engineer
+
++
++65% Switch-to speed
++55% Knockback dealt
+
++25% Speed on wearer
++1 Health regen per sec
+
+-
+
+-4 Health regen per sec
+-40% Air turn control on wearer
++60% Knockback taken on wearer
+=======================================
+91
+
+=======================================
+A Revolver for the Spy
+
++
+-45% Knockback taken while deployed
+
+-
+
+This weapon deals mini-crit damage when it would normally deal crits
+-35% Maximum secondary ammo on wearer
+-35% Speed while deployed
+No random crits
+=======================================
+
+92
+
+=======================================
+A Bottle for the Demoman
+
++
+This weapon has random crits
++45% Maximum overheal on wearer
+
++50% Melee range
++90% Maximum secondary ammo on wearer
+
+-
+-5% Maximum secondary ammo on wearer
+Mini-crits against the user are converted to crits
+
+-35% Speed while deployed
+=======================================
+93
+
+=======================================
+A Bonesaw for the Medic
+
++
++30% Health gained from all sources on wearer
++35% Knockback dealt
+
++5% Damage resistance against falling damage while deployed
+Wearer has 1 extra mid-air jump
+
+-
++45% Fall damage taken on wearer
+
+-30% Knockback dealt
+-35% Maximum primary ammo on wearer
++1 Degrees of random deviation in accuracy
+=======================================
+94
+
+
+=======================================
+A Axe for the Pyro
+
++
++15% Damage dealt
++3 Health regen per sec
++75% Accuracy
+Damage dealt with this weapon against enemy Engineers is converted to mini-crit damage
+
+-
+-4 Health regen per sec
++2 Degrees of random deviation in accuracy
+=======================================
+95
+
+=======================================
+A Minigun for the Heavy
+
++
++25% Health gained from all sources on wearer
+Wearer cannot be headshot
++30% Damage dealt on crit
++10% Switch-to speed
+
+-
+-20% Accuracy
+=======================================
+96
+
+=======================================
+A Pistol for the Scout
+
++
++35% Damage dealt on mini-crit
+
+-
+
++65% Fall damage taken on wearer
++85% Damage vulnerability against sentry damage on wearer
+=======================================
+97
+
+=======================================
+A Knife for the Spy
+
++
++20% Switch-from speed
+
+-
+Backstabs with this weapon only deal mini-crit damage
+-5% Health gained from all sources on wearer
++90% Knockback taken while deployed
+Damage dealt with this weapon against targets with 100% health is nullified
+=======================================
+98
+
+=======================================
+A Knife for the Spy
+
++
++95% Air turn control on wearer
++20% Air turn control on wearer
++40% Melee range
+
+-
+-45% Speed on wearer
+=======================================
+99
+
+=======================================
+A Bat for the Scout
+
++
++90% Damage dealt against buildings
++20% Speed while deployed
+-30% Knockback taken on wearer
++15% Air movement control
+
+-
+-45% Damage dealt on crit
+-25% Switch-from speed
++35% Damage vulnerability against fire damage while deployed
+=======================================
+100
